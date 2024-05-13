@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987381594668",
+    "project_id": "library-pro-b1ab0",
+    "storage_bucket": "library-pro-b1ab0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987381594668:android:76ec1ae88ec37fffefef89",
+        "android_client_info": {
+          "package_name": "com.example.librarypro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy2trRRUmj8F0D4Pb9R85fZLc5UMcRA-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
